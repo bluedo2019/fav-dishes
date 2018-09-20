@@ -24,6 +24,7 @@
 
 	<modules>
 		<module>fav-dish</module>
+		<module>model</module>
 	</modules>
 
 
