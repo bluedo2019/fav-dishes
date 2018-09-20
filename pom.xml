@@ -24,7 +24,6 @@
 
 	<modules>
 		<module>fav-dish</module>
-		<module>client_javafx</module>
 	</modules>
 
 
